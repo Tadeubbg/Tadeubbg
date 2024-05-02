@@ -1,16 +1,29 @@
-### Hi there 👋
+# Olá, sou o Guilherme Moreira 
 
-<!--
-**Tadeubbg/Tadeubbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Web e apaixonado por tecnologia.
+### Estou buscando uma vaga no momento
 
-Here are some ideas to get you started:
+## Habiladades
+- Desenvolvimento Web
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- ECMAScript
+- Bootstrap
+- WordPress
+- MySQL
+- React
+- jQuery
+- NodeJS
+- MongoDB
+- Git
+- Microsoft Word
+- Microsoft Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Entre em contato
+[![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/guilherme-tadeu-alves-moreira-2a757b168/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+(https://www.instagram.com/gui_moreira88/?next=%2F)
